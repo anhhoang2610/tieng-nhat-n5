@@ -1,0 +1,9 @@
+{
+  "name": "minna-n5-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "build": "echo static-site-ready"
+  }
+}
